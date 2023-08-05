@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ESP32-SIM800C.PrjPCB]
+   Generated File[ESP32-SIM800C unroute.GTO]
+   Generated File[ESP32-SIM800C unroute.GTP]
+   Generated File[ESP32-SIM800C unroute.GTS]
+   Generated File[ESP32-SIM800C unroute.GTL]
+   Generated File[ESP32-SIM800C unroute.GP1]
+   Generated File[ESP32-SIM800C unroute.GP2]
+   Generated File[ESP32-SIM800C unroute.GBL]
+   Generated File[ESP32-SIM800C unroute.GBS]
+   Generated File[ESP32-SIM800C unroute.GBP]
+   Generated File[ESP32-SIM800C unroute.GBO]
+   Generated File[ESP32-SIM800C unroute.GM]
+   Generated File[ESP32-SIM800C unroute.EXTREP]
+   Generated File[ESP32-SIM800C unroute.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 10:15:21 AM On 8/5/2023
